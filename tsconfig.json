@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "removeComments": false
+  },
+  "exclude": [
+    "node_modules",
+    "typings"
+  ]
+}
